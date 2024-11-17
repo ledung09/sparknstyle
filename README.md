@@ -18,7 +18,3 @@ Spark & Style is a project for the course _Electronic Commerce (CO3027)_ at Ho C
 
 ## Deployment
 Visit our page: [Spark & Style](https://sparknstyle.vercel.app/)
-
-## License
-
-This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
